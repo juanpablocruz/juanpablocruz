@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+This is my github page, I tend to work on learning and research projects most of the time.
+Currently I'm learning Rust and heavily working on Functional Programming content.
+
 ![Juan Pablo's github stats](https://github-readme-stats.vercel.app/api?username=juanpablocruz&show_icons=true)
 ### Projects
 ![mmix-compiler](https://github-readme-stats.vercel.app/api/pin/?username=juanpablocruz&repo=mmix-compiler&cache_seconds=86400&theme=default)
