@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Juan Pablo's github stats](https://github-readme-stats.vercel.app/api?username=juanpablocruz&show_icons=true)
-## Projects
+### Projects
+![mmix-compiler](https://github-readme-stats.vercel.app/api/pin/?username=juanpablocruz&repo=mmix-compiler&cache_seconds=86400&theme=default)
 ![FunK](https://github-readme-stats.vercel.app/api/pin/?username=juanpablocruz&repo=FunK&cache_seconds=86400&theme=default)
-## My Langs
+![rusty-birds](https://github-readme-stats.vercel.app/api/pin/?username=juanpablocruz&repo=rusty-birds&cache_seconds=86400&theme=default)
+### My Langs
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanpablocruz&show_icons=true)
