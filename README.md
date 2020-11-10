@@ -16,9 +16,5 @@ Here are some ideas to get you started:
 -->
 This is my github page, I tend to work on learning and research projects most of the time.
 Currently I'm learning Rust and heavily working on Functional Programming content.
-### Projects
-![mmix-compiler](https://github-readme-stats.vercel.app/api/pin/?username=juanpablocruz&repo=mmix-compiler&cache_seconds=86400&theme=default)
-![FunK](https://github-readme-stats.vercel.app/api/pin/?username=juanpablocruz&repo=FunK&cache_seconds=86400&theme=default)
-![rusty-birds](https://github-readme-stats.vercel.app/api/pin/?username=juanpablocruz&repo=rusty-birds&cache_seconds=86400&theme=default)
 ### My Langs
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanpablocruz&show_icons=true)
